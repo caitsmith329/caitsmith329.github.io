@@ -12,5 +12,5 @@ In Module 3 of my Competing Through Business Analytics course one of the assignm
   
   
   
-  [Click to return to main page](/https://caitsmith329.github.io/caitsmith329/index.md)
+  [Click to return to main page](/https://caitsmith329.github.io/caitsmith329/index.html)
 
