@@ -13,7 +13,4 @@ In Module 3 of my Competing Through Business Analytics course one of the assignm
   
   
   [Click to return to main page](https://caitsmith329.github.io/)
-  
-  
-  try4
 
