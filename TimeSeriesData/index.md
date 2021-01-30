@@ -12,8 +12,8 @@ In Module 3 of my Competing Through Business Analytics course one of the assignm
   
   
   
-  [Click to return to main page](https://github.com/caitsmith329/)
+  [Click to return to main page](https://github.com/caitsmith329/caitsmith329.github.io/)
   
   
-  try
+  try1
 
