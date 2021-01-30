@@ -18,4 +18,4 @@ This is a page dedicated to my ongoing journey with coding and my pursuit of an 
 
 
 Course Content Links:
-  - [Time Series Data Analysis (Decomposition)](/timeseries/index.md)
+  - [Time Series Data Analysis (Decomposition)](/TimeSeriesData/index.md)
