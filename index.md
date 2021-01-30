@@ -18,7 +18,7 @@ This is a page dedicated to my ongoing journey with coding and my pursuit of an 
 
 
 
-[![For more information on current United Nations efforts to combat this exploitation please watch this video.](https://img.youtube.com/vi/DV2AVWw2tSA/0.jpg)(https://www.youtube.com/watch?v=DV2AVWw2tSA)
+[![For more information on current United Nations efforts to combat this exploitation please watch this video.](https://img.youtube.com/vi/DV2AVWw2tSA/0.jpg)](https://www.youtube.com/watch?v=DV2AVWw2tSA)
 
 
 Course Content Links:
