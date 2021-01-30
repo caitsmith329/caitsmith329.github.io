@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[LinkedIn Profile](https://www.linkedin.com/in/catherine-smith-b093ab3a/).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Welcome
 
@@ -21,7 +17,7 @@ This is a page dedicated to my ongoing journey with coding and my pursuit of an 
 > Ultimately I hope to take my knowledge of coding and use it to protect the vulnerable from those who would use their skills to do harm. I particularly hope to focus on fighting human trafficking. 
 
 
-### Header 3
+```### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -38,7 +34,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+```#### Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -116,9 +112,9 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
-The final element.
+```The final element.
 ```
