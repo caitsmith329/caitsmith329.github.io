@@ -10,15 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Welcome
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a page dedicated to my ongoing journey with coding and my pursuit of an MSBA at The College of William and Mary.
 
-## Header 2
+## With great coding comes great responsibility...
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> “Remember there’s no such thing as a small act of kindness. Every act creates a ripple with no logical end.” —Scott Adams
+
+> Ultimately I hope to take my knowledge of coding and use it to protect the vulnerable from those who would use their skills to do harm. I particularly hope to focus on fighting human trafficking. 
+
 
 ### Header 3
 
