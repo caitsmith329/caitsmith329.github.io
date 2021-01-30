@@ -22,4 +22,4 @@ This is a page dedicated to my ongoing journey with coding and my pursuit of an 
 Course Content Links:
   - [Time Series Data Analysis (Decomposition)](/TimeSeriesData/index.md)
 
-  - [Historical Files of My Work(Sample Repository)](https://github.com/caitsmith329/sample)
+  - [Sample Repository of My Work](github.com/caitsmith329/sample)
