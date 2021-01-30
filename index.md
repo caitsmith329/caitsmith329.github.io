@@ -6,7 +6,7 @@ description: Github for CTBA course work
 
 [LinkedIn Profile](https://www.linkedin.com/in/catherine-smith-b093ab3a/).
 
-![Pic](/Berlin.jpg)
+![Pic](/Escher Museum.jpg)
 
 # Welcome
 
