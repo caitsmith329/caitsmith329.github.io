@@ -23,6 +23,6 @@ This is a page dedicated to my ongoing journey with coding and my pursuit of an 
 
 Course Content Links:
   - [Time Series Data Analysis (Decomposition)](/TimeSeriesData/index.md)
-  - [Jupyter Notebook of Time Series Decomp](/TimeSeriesData/M3TimeSeries.ipynb)
-  - [HTML Version of Time Series Decomp](/TimeSeriesData/M3TimeSeries.html)
+  - [Jupyter Notebook Explaining Anscombe's Quartet (instructor generated)](/sample/AnscombesQuartet.ipynb)
+  - [HTML Version of Matplotlib Graph Techniques and Types (instructor generated)](/sample/MatplotlibGraphTechniquesGraphTypes.html)
   - [Sample Repository of My Other Work](https://github.com/caitsmith329/sample)
